@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Matteo 👋
 
-<!--
-**MatteoGrado/MatteoGrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer from Germany 🇩🇪
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- MySQL
+- Docker
+- RabbitMQ
+- Kafka
+- AWS S3
+- GitHub Actions
+
+## Featured Projects
+
+- DBP – Banking Microservices Backend
+- UnifiedOps – Microservice Platform Backend
+- Portfolio Website
+
+## Currently learning
+
+- System Design
+
+schreibe das etwas mehr aus.

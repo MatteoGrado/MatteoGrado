@@ -24,6 +24,7 @@ Backend Developer from Germany 🇩🇪
 ## Currently learning
 
 - System Design
+- Kubernetes
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
